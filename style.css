@@ -3,7 +3,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   color: rgba(0, 0, 0, 0.568);
   font-size: 16px;
-  line-height: 16px;
+  line-height: 24px;
 }
 
 h1 {
@@ -32,7 +32,7 @@ a:hover {
   margin: 0 auto;
 }
 
-.card-grey {
+.card-white {
   width: 500px;
   background-color: #e9e9e9e5;
   text-align: center;
@@ -70,11 +70,7 @@ a:hover {
   size: 5x;
 }
 
-.icon-size {
-  size: 5x;
-}
 .fab {
-  size: 5px;
   font-size: 50px;
   color: ;
 }
